@@ -2,6 +2,13 @@
 
 An app which teaches braille to visually-impaired children in multiple languages.
 
+## Video Demonstration
+
+
+https://user-images.githubusercontent.com/65456561/200742438-e703fc1a-63a8-48a4-8548-52733ed5599f.mp4
+
+
+
 ## ScreenShots
 
 Home Screen
